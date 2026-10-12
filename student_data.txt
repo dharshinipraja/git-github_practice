@@ -1,0 +1,2 @@
+name : abc
+kills :python , SQL, AI, ML
